@@ -1,6 +1,6 @@
 # Adaptive_guessor.py
 
-## 📌 Project Overview
+## Project Overview
 
 This project is a command-line system that identifies an unknown entity using **logical constraints and adaptive questioning**.
 
@@ -9,7 +9,7 @@ Instead of relying on probability or machine learning, the system uses **explici
 The project demonstrates how **decision-making systems** can be built using simple, explainable logic, similar to early symbolic AI and rule-based systems.
 
 
-## ⚙️ What This Program Does
+## What This Program Does
 
 **Output**:  
 A terminal-based interactive session that:
@@ -30,7 +30,7 @@ A terminal-based interactive session that:
 • System either converges to one entity or detects contradiction  
 
 
-## 🧠 How It Works
+## How It Works
 
 ### Entity Representation
 
@@ -69,7 +69,7 @@ A terminal-based interactive session that:
 • Output is deterministic and clean  
 
 
-## 🌟 Features Demonstrated
+## Features Demonstrated
 
 • Constraint-based reasoning  
 • Adaptive decision-making  
@@ -80,12 +80,9 @@ A terminal-based interactive session that:
 • Simple but extensible architecture  
 
 
-## 🎯 Why I Built This
+## Why I Built This
 
-I wanted to explore **decision-making systems without machine learning**.
-
-Modern AI often hides reasoning behind black-box models.  
-This project focuses on the opposite approach: **explicit logic**, where every decision can be traced and explained.
+I wanted to explore decision-making systems without machine learning.
 
 By building this project, I aimed to:
 
@@ -98,23 +95,12 @@ By building this project, I aimed to:
 
 ## 🤖 AI Assistance Disclaimer
 
-AI was used only as a **support tool**, not as a logic generator.
-
 **AI helped with**:
 
 • Debugging runtime issues  
 • Reviewing architecture decisions  
 • Improving clarity of explanations  
-• Formatting and documentation  
-
-**AI did NOT**:
-
-• Design the reasoning logic  
-• Choose attributes or entities  
-• Implement the decision system  
-• Decide how constraints are applied  
-
-All core logic and system behavior were designed and understood by me.
+• Formatting and documentation    
 
 
 ## ▶️ How to Run the Program
