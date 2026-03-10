@@ -93,7 +93,7 @@ By building this project, I aimed to:
 • Avoid overengineering while keeping the design clean  
 
 
-## 🤖 AI Assistance Disclaimer
+## AI Assistance Disclaimer
 
 **AI helped with**:
 
@@ -103,7 +103,7 @@ By building this project, I aimed to:
 • Formatting and documentation    
 
 
-## ▶️ How to Run the Program
+## How to Run the Program
 
 **Requirements**:
 
